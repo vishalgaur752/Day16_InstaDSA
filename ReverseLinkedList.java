@@ -74,9 +74,4 @@ public class ReverseLinkedList {
         }
         System.out.println();
     }
-
-    public char[] isCycle() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'isCycle'");
-    }
 }
